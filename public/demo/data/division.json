@@ -1,0 +1,19 @@
+{
+    "data": [
+        {
+            "id": "1000",
+            "divisionName": "Marketing",
+            "createdBy": "Ipsal",
+            "createdAT": "2015-09-13 08:22:00",
+            "statusActive": 0
+        },
+        {
+            "id": "1001",
+            "divisionName": "Sales",
+            "createdBy": "Ipsal",
+            "createdAT": "2015-09-13 07:02:00",
+            "statusActive": 1
+        }
+        
+    ]
+    }

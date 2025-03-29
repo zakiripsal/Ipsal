@@ -1,0 +1,35 @@
+{
+    "data": [
+        {
+            "id": "1000",
+            "name": "Ali",
+            "image": "ivanmagalhaes.png",
+            "role": "Agent",
+            "division": "Marketing",
+            "email": "Ali@gmail.com",
+            "verified": false,
+            "password": "12345",
+            "messages": "Messag",
+            "lastSeen": "2015-09-13 08:22:00",
+            "status": false,
+            "createdBy": "Ipsal",
+            "createdAT": "2016-05-20"
+        },
+        {
+            "id": "1001",
+            "name": "Budi",
+            "image": "bernardodominic.png",
+            "role": "SPV",
+            "division": "Sales",
+            "email": "Budi@gmail.com",
+            "verified": true,
+            "password": "12345",
+            "messages": "Messag",
+            "lastSeen": "2015-09-13 08:22:00",
+            "status": true,
+            "createdBy": "Ceisya",
+            "createdAT": "2015-09-13 08:22:00"
+        }
+        
+    ]
+    }
